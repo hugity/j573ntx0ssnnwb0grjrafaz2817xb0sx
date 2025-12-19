@@ -10,7 +10,7 @@ summarylength = 20
 disableKinds = []
 enableEmoji = true
 baseurl = "http://localhost/"
-title = "My Docs"
+title = "OverDocs"
 enableRobotsTXT = true
 disableLanguages = [ "de", "nl" ]
 

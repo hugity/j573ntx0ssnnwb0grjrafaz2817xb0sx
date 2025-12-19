@@ -75,12 +75,12 @@ svgIcon = "favicon.svg"
 sizes = []
 
 [seo.schemas]
-article = [ "blog" ]
+article = []
 blogPosting = [ "blog" ]
 images = [ "cover.png" ]
 logo = "favicon-512x512.png"
 name = "Thulite"
-newsArticle = []
+newsArticle = [ "blog" ]
 product = []
 sameAs = []
 type = "Organization"
