@@ -3,14 +3,14 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 disableAliases = true
 disableHugoGeneratorInject = true
+disableKinds = []
 enableGitInfo = false
 languageCode = "en-US"
 rssLimit = 10
 summarylength = 20
-disableKinds = []
 enableEmoji = true
 baseurl = "http://localhost/"
-title = "OverDocs"
+title = "OverDocss"
 enableRobotsTXT = true
 disableLanguages = [ "de", "nl" ]
 

@@ -76,12 +76,12 @@ sizes = []
 
 [seo.schemas]
 article = []
-blogPosting = []
+blogPosting = [ "blog" ]
 images = [ "cover.png" ]
 logo = "favicon-512x512.png"
 name = "Thulite"
-newsArticle = [ "blog" ]
-product = []
+newsArticle = []
+product = [ "blog" ]
 sameAs = []
 type = "Organization"
 
